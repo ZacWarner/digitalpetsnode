@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/ZacWarner/digitalpetsnode#readme",
   "dependencies": {
-    "sequelize": "^5.9.4"
+    "sequelize": "^5.15.1"
   }
 }
